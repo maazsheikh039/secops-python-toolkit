@@ -1,0 +1,109 @@
+{
+  "metadata": [
+    {
+      "timestamp": "2024-01-15 10:23:45",
+      "protocol": "TCP",
+      "src_ip": "192.168.1.100",
+      "src_port": 45678,
+      "dst_ip": "8.8.8.8",
+      "dst_port": 53,
+      "service": "DNS",
+      "dst_country": "US",
+      "dst_city": "Unknown",
+      "dst_type": "External"
+    },
+    {
+      "timestamp": "2024-01-15 10:23:46",
+      "protocol": "UDP",
+      "src_ip": "192.168.1.100",
+      "src_port": 54321,
+      "dst_ip": "1.1.1.1",
+      "dst_port": 53,
+      "service": "DNS",
+      "dst_country": "AU",
+      "dst_city": "Research",
+      "dst_type": "External"
+    },
+    {
+      "timestamp": "2024-01-15 10:24:12",
+      "protocol": "TCP",
+      "src_ip": "192.168.1.105",
+      "src_port": 49152,
+      "dst_ip": "93.184.216.34",
+      "dst_port": 80,
+      "service": "HTTP",
+      "dst_country": "US",
+      "dst_city": "Norwell",
+      "dst_type": "External"
+    },
+    {
+      "timestamp": "2024-01-15 10:24:15",
+      "protocol": "TCP",
+      "src_ip": "192.168.1.105",
+      "src_port": 49153,
+      "dst_ip": "93.184.216.34",
+      "dst_port": 443,
+      "service": "HTTPS",
+      "dst_country": "US",
+      "dst_city": "Norwell",
+      "dst_type": "External"
+    },
+    {
+      "timestamp": "2024-01-15 10:25:01",
+      "protocol": "TCP",
+      "src_ip": "192.168.1.110",
+      "src_port": 51234,
+      "dst_ip": "140.82.121.4",
+      "dst_port": 443,
+      "service": "HTTPS",
+      "dst_country": "US",
+      "dst_city": "San Francisco",
+      "dst_type": "External"
+    },
+    {
+      "timestamp": "2024-01-15 10:25:30",
+      "protocol": "UDP",
+      "src_ip": "192.168.1.100",
+      "src_port": 68,
+      "dst_ip": "192.168.1.1",
+      "dst_port": 67,
+      "service": "DHCP",
+      "dst_country": "Private/Unknown",
+      "dst_type": "Internal"
+    },
+    {
+      "timestamp": "2024-01-15 10:26:45",
+      "protocol": "TCP",
+      "src_ip": "192.168.1.120",
+      "src_port": 55678,
+      "dst_ip": "151.101.1.140",
+      "dst_port": 443,
+      "service": "HTTPS",
+      "dst_country": "US",
+      "dst_city": "San Francisco",
+      "dst_type": "External"
+    },
+    {
+      "timestamp": "2024-01-15 10:27:10",
+      "protocol": "TCP",
+      "src_ip": "192.168.1.100",
+      "src_port": 60123,
+      "dst_ip": "172.217.14.206",
+      "dst_port": 443,
+      "service": "HTTPS",
+      "dst_country": "US",
+      "dst_city": "Mountain View",
+      "dst_type": "External"
+    }
+  ],
+  "statistics": {
+    "total_connections": 8,
+    "protocol_TCP": 6,
+    "service_DNS": 2,
+    "protocol_UDP": 2,
+    "service_HTTP": 1,
+    "service_HTTPS": 4,
+    "service_DHCP": 1
+  },
+  "generated_at": "2026-11-02T22:47:58.281638"
+}
