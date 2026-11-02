@@ -1,0 +1,35 @@
+[2026-11-02 21:49:50] [INFO] Starting health monitor for http://localhost:5000
+[2026-11-02 21:49:50] [INFO] Monitoring endpoints: /health, /api/users, /api/data
+[2026-11-02 21:49:50] [INFO] Check interval: 5 seconds
+[2026-11-02 21:49:50] [INFO] --- Health Check #1 ---
+[2026-11-02 21:49:50] [INFO] /health is healthy (Response time: 5.48ms)
+[2026-11-02 21:49:50] [INFO] /api/users is healthy (Response time: 4.54ms)
+[2026-11-02 21:49:50] [INFO] /api/data is healthy (Response time: 796.83ms)
+[2026-11-02 21:49:55] [INFO] --- Health Check #2 ---
+[2026-11-02 21:49:55] [INFO] /health is healthy (Response time: 3.37ms)
+[2026-11-02 21:49:57] [INFO] /api/users is healthy (Response time: 2003.86ms)
+[2026-11-02 21:49:58] [INFO] /api/data is healthy (Response time: 753.28ms)
+[2026-11-02 21:50:03] [INFO] --- Health Check #3 ---
+[2026-11-02 21:50:03] [INFO] /health is healthy (Response time: 5.61ms)
+[2026-11-02 21:50:03] [INFO] /api/users is healthy (Response time: 3.14ms)
+[2026-11-02 21:50:04] [INFO] /api/data is healthy (Response time: 639.56ms)
+[2026-11-02 21:50:09] [INFO] --- Health Check #4 ---
+[2026-11-02 21:50:09] [INFO] /health is healthy (Response time: 3.22ms)
+[2026-11-02 21:50:09] [ERROR] /api/users is unhealthy - None
+[2026-11-02 21:50:09] [INFO] /api/data is healthy (Response time: 430.28ms)
+[2026-11-02 21:50:14] [INFO] --- Health Check #5 ---
+[2026-11-02 21:50:14] [INFO] /health is healthy (Response time: 3.08ms)
+[2026-11-02 21:50:16] [INFO] /api/users is healthy (Response time: 2003.39ms)
+[2026-11-02 21:50:17] [INFO] /api/data is healthy (Response time: 813.42ms)
+[2026-11-02 21:50:22] [INFO] --- Health Check #6 ---
+[2026-11-02 21:50:22] [INFO] /health is healthy (Response time: 3.02ms)
+[2026-11-02 21:50:22] [INFO] /api/users is healthy (Response time: 2.67ms)
+[2026-11-02 21:50:22] [INFO] /api/data is healthy (Response time: 305.5ms)
+[2026-11-02 21:50:22] [INFO] Monitoring duration completed
+[2026-11-02 21:50:23] [INFO] Starting health monitor for http://localhost:5000
+[2026-11-02 21:50:23] [INFO] Monitoring endpoints: /health, /api/users, /api/data
+[2026-11-02 21:50:23] [INFO] Check interval: 5 seconds
+[2026-11-02 21:50:23] [INFO] --- Health Check #1 ---
+[2026-11-02 21:50:23] [INFO] /health is healthy (Response time: 4.18ms)
+[2026-11-02 21:50:23] [INFO] /api/users is healthy (Response time: 3.27ms)
+[2026-11-02 21:50:23] [INFO] /api/data is healthy (Response time: 120.94ms)
