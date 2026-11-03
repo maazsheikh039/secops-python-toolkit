@@ -1,0 +1,104 @@
+{
+  "analysis_date": "2026-11-03T00:37:29.594971",
+  "total_findings": 9,
+  "findings": [
+    {
+      "severity": "LOW",
+      "message": "Warning detected",
+      "details": {
+        "log_line": "2024-01-15 10:24:12 WARNING: High memory usage detected"
+      },
+      "line_number": 2,
+      "plugin": "Custom Analyzer",
+      "timestamp": "2026-11-03T00:37:29.594718"
+    },
+    {
+      "severity": "MEDIUM",
+      "message": "Error keyword detected: error",
+      "details": {
+        "keyword": "error",
+        "log_line": "2024-01-15 10:25:33 ERROR: Database connection failed"
+      },
+      "line_number": 3,
+      "plugin": "Error Pattern Analyzer",
+      "timestamp": "2026-11-03T00:37:29.594758"
+    },
+    {
+      "severity": "HIGH",
+      "message": "Failed login attempt detected",
+      "details": {
+        "pattern_matched": "Failed password for .* from ([\\d\\.]+)",
+        "log_line": "2024-01-15 10:26:01 Failed password for admin from 192.168.1.100 port 22 ssh2"
+      },
+      "line_number": 4,
+      "plugin": "Failed Login Analyzer",
+      "timestamp": "2026-11-03T00:37:29.594777"
+    },
+    {
+      "severity": "CRITICAL",
+      "message": "Error keyword detected: critical",
+      "details": {
+        "keyword": "critical",
+        "log_line": "2024-01-15 10:27:42 CRITICAL: Disk space below 5%"
+      },
+      "line_number": 6,
+      "plugin": "Error Pattern Analyzer",
+      "timestamp": "2026-11-03T00:37:29.594876"
+    },
+    {
+      "severity": "HIGH",
+      "message": "Failed login attempt detected",
+      "details": {
+        "pattern_matched": "Failed password for .* from ([\\d\\.]+)",
+        "log_line": "2024-01-15 10:28:19 Failed password for root from 10.0.0.50 port 22 ssh2"
+      },
+      "line_number": 7,
+      "plugin": "Failed Login Analyzer",
+      "timestamp": "2026-11-03T00:37:29.594893"
+    },
+    {
+      "severity": "HIGH",
+      "message": "Failed login attempt detected",
+      "details": {
+        "pattern_matched": "authentication failure.*rhost=([\\d\\.]+)",
+        "log_line": "2024-01-15 10:29:05 authentication failure; rhost=172.16.0.25"
+      },
+      "line_number": 8,
+      "plugin": "Failed Login Analyzer",
+      "timestamp": "2026-11-03T00:37:29.594904"
+    },
+    {
+      "severity": "CRITICAL",
+      "message": "Error keyword detected: fatal",
+      "details": {
+        "keyword": "fatal",
+        "log_line": "2024-01-15 10:31:28 FATAL: Application crashed unexpectedly"
+      },
+      "line_number": 10,
+      "plugin": "Error Pattern Analyzer",
+      "timestamp": "2026-11-03T00:37:29.594914"
+    },
+    {
+      "severity": "HIGH",
+      "message": "Failed login attempt detected",
+      "details": {
+        "pattern_matched": "sudo.*authentication failure",
+        "log_line": "2024-01-15 10:32:45 sudo: authentication failure for user john"
+      },
+      "line_number": 11,
+      "plugin": "Failed Login Analyzer",
+      "timestamp": "2026-11-03T00:37:29.594931"
+    },
+    {
+      "severity": "MEDIUM",
+      "message": "Error keyword detected: error",
+      "details": {
+        "keyword": "error",
+        "log_line": "2024-01-15 10:33:12 ERROR: File not found exception"
+      },
+      "line_number": 12,
+      "plugin": "Error Pattern Analyzer",
+      "timestamp": "2026-11-03T00:37:29.594935"
+    }
+  ]
+}
