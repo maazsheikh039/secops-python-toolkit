@@ -1,0 +1,8 @@
+2026-11-06 05:48:41 sshd[1234]: Failed password for admin from 192.168.1.100
+2026-11-06 05:48:42 sshd[1234]: Failed password for admin from 192.168.1.100
+2026-11-06 05:48:42 sshd[1234]: Failed password for admin from 192.168.1.100
+2026-11-06 05:48:43 sshd[1234]: Failed password for admin from 192.168.1.100
+2026-11-06 05:48:43 sshd[1234]: Failed password for admin from 192.168.1.100
+2026-11-06 05:48:44 su: root login on tty1
+2026-11-06 05:48:44 firewall: port scan detected from 10.0.0.50
+2026-11-06 05:48:45 firewall: port scan detected from 10.0.0.50
