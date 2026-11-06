@@ -1,0 +1,4 @@
+- Direct concatenation without validation
+- No input sanitization
+- No delimiter protection
+- No instruction hierarchy
