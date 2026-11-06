@@ -1,0 +1,146 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Security Compliance Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .header { background: #2c3e50; color: white; padding: 20px; }
+        .score { font-size: 48px; font-weight: bold; }
+        .critical { color: #e74c3c; }
+        .high { color: #e67e22; }
+        .medium { color: #f39c12; }
+        .low { color: #3498db; }
+        .section { margin: 20px 0; padding: 15px; border: 1px solid #ddd; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 10px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background: #34495e; color: white; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Security Compliance Audit Report</h1>
+        <p>Generated: 2026-11-06 08:32:25</p>
+    </div>
+    
+    <div class="section">
+        <h2>Compliance Score</h2>
+        <div class="score">49/100</div>
+        <p>Total Issues Found: 15</p>
+    </div>
+    
+    <div class="section">
+        <h2>Configuration Audit Findings</h2>
+        <table>
+            <tr>
+                <th>Severity</th>
+                <th>Issue</th>
+                <th>Recommendation</th>
+            </tr>
+
+            <tr>
+                <td class="high">HIGH</td>
+                <td>Root login is enabled</td>
+                <td>Set PermitRootLogin to no</td>
+            </tr>
+
+            <tr>
+                <td class="medium">MEDIUM</td>
+                <td>Password authentication enabled</td>
+                <td>Use key-based authentication only</td>
+            </tr>
+
+            <tr>
+                <td class="medium">MEDIUM</td>
+                <td>MaxAuthTries is too high or not set</td>
+                <td>Set MaxAuthTries to 3</td>
+            </tr>
+
+            <tr>
+                <td class="high">HIGH</td>
+                <td>Rule rule-001 allows access from anywhere</td>
+                <td>Restrict source IP for port 22</td>
+            </tr>
+
+            <tr>
+                <td class="high">HIGH</td>
+                <td>Rule rule-002 allows access from anywhere</td>
+                <td>Restrict source IP for port 3389</td>
+            </tr>
+
+            <tr>
+                <td class="high">HIGH</td>
+                <td>Rule rule-003 allows access from anywhere</td>
+                <td>Restrict source IP for port 443</td>
+            </tr>
+
+            <tr>
+                <td class="medium">MEDIUM</td>
+                <td>User admin has password age > 90 days</td>
+                <td>Enforce 90-day password rotation</td>
+            </tr>
+
+            <tr>
+                <td class="medium">MEDIUM</td>
+                <td>User developer has password age > 90 days</td>
+                <td>Enforce 90-day password rotation</td>
+            </tr>
+
+            <tr>
+                <td class="low">LOW</td>
+                <td>User developer has sudo privileges</td>
+                <td>Review if sudo access is necessary</td>
+            </tr>
+
+        </table>
+    </div>
+    
+    <div class="section">
+        <h2>Log Analysis Findings</h2>
+        <table>
+            <tr>
+                <th>Severity</th>
+                <th>Type</th>
+                <th>Details</th>
+            </tr>
+
+            <tr>
+                <td class="critical">CRITICAL</td>
+                <td>Brute Force Attack</td>
+                <td>2024-01-15 13:45:00 ERROR: Brute force attack detected from 203.0.113.45</td>
+            </tr>
+
+            <tr>
+                <td class="high">HIGH</td>
+                <td>Multiple Failed Logins</td>
+                <td>IP 203.0.113.45 had 2 failed login attempts</td>
+            </tr>
+
+            <tr>
+                <td class="medium">MEDIUM</td>
+                <td>Unauthorized Access Attempt</td>
+                <td>2024-01-15 11:45:30 GET /api/secrets 403 guest</td>
+            </tr>
+
+            <tr>
+                <td class="medium">MEDIUM</td>
+                <td>Sensitive Endpoint Access</td>
+                <td>2024-01-15 11:45:30 GET /api/secrets 403 guest</td>
+            </tr>
+
+            <tr>
+                <td class="low">LOW</td>
+                <td>Delete Operation</td>
+                <td>2024-01-15 12:00:45 DELETE /api/users/1001 200 admin</td>
+            </tr>
+
+            <tr>
+                <td class="medium">MEDIUM</td>
+                <td>Sensitive Endpoint Access</td>
+                <td>2024-01-15 13:15:20 GET /admin/panel 200 developer</td>
+            </tr>
+
+        </table>
+    </div>
+</body>
+</html>
