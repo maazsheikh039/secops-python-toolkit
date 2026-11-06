@@ -1,0 +1,16 @@
+Object Storage Exposure Report
+Generated: Fri Nov  6 06:33:24 UTC 2026
+================================
+
+Bucket: private-bucket
+  Status: SECURE - No public access
+  Risk Level: LOW
+
+Bucket: public-bucket
+  Status: SECURE - No public access
+  Risk Level: LOW
+
+Bucket: exposed-data
+  Status: SECURE - No public access
+  Risk Level: LOW
+
