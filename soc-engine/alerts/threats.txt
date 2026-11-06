@@ -1,0 +1,56 @@
+[2026-11-06 08:19:32] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:19:32 - Multiple failed sudo attempts - user: guest5
+[2026-11-06 08:19:33] ALERT: PORT_SCAN -> 2026-11-06 08:19:33 - Port scan detected from 203.0.113.4 targeting ports 22,23,3389
+[2026-11-06 08:19:42] ALERT: PORT_SCAN -> 2026-11-06 08:19:42 - Port scan detected from 203.0.113.28 targeting ports 22,23,3389
+[2026-11-06 08:19:42] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:19:42 - Multiple failed sudo attempts - user: guest4
+[2026-11-06 08:19:49] ALERT: PORT_SCAN -> 2026-11-06 08:19:49 - Port scan detected from 203.0.113.23 targeting ports 22,23,3389
+[2026-11-06 08:19:50] ALERT: BRUTE_FORCE -> 2026-11-06 08:19:50 - Failed login attempt from 10.0.0.147 - user: admin - attempt 2
+[2026-11-06 08:19:52] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:19:52 - Multiple failed sudo attempts - user: guest1
+[2026-11-06 08:19:54] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:19:54 - Multiple failed sudo attempts - user: guest1
+[2026-11-06 08:19:58] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:19:58 - Multiple failed sudo attempts - user: guest10
+[2026-11-06 08:19:58] ALERT: BRUTE_FORCE -> 2026-11-06 08:19:58 - Failed login attempt from 10.0.0.101 - user: admin - attempt 4
+[2026-11-06 08:20:03] ALERT: SUSPICIOUS_CONNECTION -> 2026-11-06 08:20:03 - Unusual outbound connection to 198.51.100.18 on port 4444
+[2026-11-06 08:20:05] ALERT: BRUTE_FORCE -> 2026-11-06 08:20:05 - Failed login attempt from 10.0.0.143 - user: admin - attempt 1
+[2026-11-06 08:20:10] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:20:10 - Multiple failed sudo attempts - user: guest5
+[2026-11-06 08:20:13] ALERT: SUSPICIOUS_CONNECTION -> 2026-11-06 08:20:13 - Unusual outbound connection to 198.51.100.21 on port 4444
+[2026-11-06 08:20:14] ALERT: SUSPICIOUS_CONNECTION -> 2026-11-06 08:20:14 - Unusual outbound connection to 198.51.100.31 on port 4444
+[2026-11-06 08:20:20] ALERT: SUSPICIOUS_CONNECTION -> 2026-11-06 08:20:20 - Unusual outbound connection to 198.51.100.6 on port 4444
+[2026-11-06 08:20:22] ALERT: PORT_SCAN -> 2026-11-06 08:20:22 - Port scan detected from 203.0.113.46 targeting ports 22,23,3389
+[2026-11-06 08:20:28] ALERT: BRUTE_FORCE -> 2026-11-06 08:20:28 - Failed login attempt from 10.0.0.140 - user: admin - attempt 1
+[2026-11-06 08:20:31] ALERT: BRUTE_FORCE -> 2026-11-06 08:20:31 - Failed login attempt from 10.0.0.111 - user: admin - attempt 1
+[2026-11-06 08:20:32] ALERT: PORT_SCAN -> 2026-11-06 08:20:32 - Port scan detected from 203.0.113.44 targeting ports 22,23,3389
+[2026-11-06 08:20:34] ALERT: SUSPICIOUS_CONNECTION -> 2026-11-06 08:20:34 - Unusual outbound connection to 198.51.100.24 on port 4444
+[2026-11-06 08:20:35] ALERT: PORT_SCAN -> 2026-11-06 08:20:35 - Port scan detected from 203.0.113.10 targeting ports 22,23,3389
+[2026-11-06 08:20:39] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:20:39 - Multiple failed sudo attempts - user: guest4
+[2026-11-06 08:20:41] ALERT: SUSPICIOUS_CONNECTION -> 2026-11-06 08:20:41 - Unusual outbound connection to 198.51.100.22 on port 4444
+[2026-11-06 08:20:43] ALERT: SUSPICIOUS_CONNECTION -> 2026-11-06 08:20:43 - Unusual outbound connection to 198.51.100.43 on port 4444
+[2026-11-06 08:20:44] ALERT: PORT_SCAN -> 2026-11-06 08:20:44 - Port scan detected from 203.0.113.23 targeting ports 22,23,3389
+[2026-11-06 08:20:49] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:20:49 - Multiple failed sudo attempts - user: guest8
+[2026-11-06 08:20:49] ALERT: SUSPICIOUS_CONNECTION -> 2026-11-06 08:20:49 - Unusual outbound connection to 198.51.100.33 on port 4444
+[2026-11-06 08:20:50] ALERT: PORT_SCAN -> 2026-11-06 08:20:50 - Port scan detected from 203.0.113.11 targeting ports 22,23,3389
+[2026-11-06 08:20:51] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:20:51 - Multiple failed sudo attempts - user: guest4
+[2026-11-06 08:20:56] ALERT: BRUTE_FORCE -> 2026-11-06 08:20:56 - Failed login attempt from 10.0.0.174 - user: admin - attempt 3
+[2026-11-06 08:20:57] ALERT: PORT_SCAN -> 2026-11-06 08:20:57 - Port scan detected from 203.0.113.36 targeting ports 22,23,3389
+[2026-11-06 08:20:59] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:20:59 - Multiple failed sudo attempts - user: guest2
+[2026-11-06 08:21:00] ALERT: PORT_SCAN -> 2026-11-06 08:21:00 - Port scan detected from 203.0.113.4 targeting ports 22,23,3389
+[2026-11-06 08:21:07] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:21:07 - Multiple failed sudo attempts - user: guest1
+[2026-11-06 08:21:08] ALERT: PORT_SCAN -> 2026-11-06 08:21:08 - Port scan detected from 203.0.113.30 targeting ports 22,23,3389
+[2026-11-06 08:21:10] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:21:10 - Multiple failed sudo attempts - user: guest7
+[2026-11-06 08:21:12] ALERT: PORT_SCAN -> 2026-11-06 08:21:12 - Port scan detected from 203.0.113.12 targeting ports 22,23,3389
+[2026-11-06 08:21:13] ALERT: PORT_SCAN -> 2026-11-06 08:21:13 - Port scan detected from 203.0.113.20 targeting ports 22,23,3389
+[2026-11-06 08:21:15] ALERT: BRUTE_FORCE -> 2026-11-06 08:21:15 - Failed login attempt from 10.0.0.185 - user: admin - attempt 1
+[2026-11-06 08:21:16] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:21:16 - Multiple failed sudo attempts - user: guest3
+[2026-11-06 08:21:20] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:21:20 - Multiple failed sudo attempts - user: guest4
+[2026-11-06 08:21:23] ALERT: PORT_SCAN -> 2026-11-06 08:21:23 - Port scan detected from 203.0.113.23 targeting ports 22,23,3389
+[2026-11-06 08:21:29] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:21:29 - Multiple failed sudo attempts - user: guest7
+[2026-11-06 08:21:30] ALERT: PORT_SCAN -> 2026-11-06 08:21:30 - Port scan detected from 203.0.113.21 targeting ports 22,23,3389
+[2026-11-06 08:21:31] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:21:31 - Multiple failed sudo attempts - user: guest4
+[2026-11-06 08:21:34] ALERT: SUSPICIOUS_CONNECTION -> 2026-11-06 08:21:34 - Unusual outbound connection to 198.51.100.33 on port 4444
+[2026-11-06 08:21:36] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:21:36 - Multiple failed sudo attempts - user: guest7
+[2026-11-06 08:21:39] ALERT: SUSPICIOUS_CONNECTION -> 2026-11-06 08:21:39 - Unusual outbound connection to 198.51.100.30 on port 4444
+[2026-11-06 08:21:41] ALERT: BRUTE_FORCE -> 2026-11-06 08:21:41 - Failed login attempt from 10.0.0.199 - user: admin - attempt 5
+[2026-11-06 08:21:42] ALERT: SUSPICIOUS_CONNECTION -> 2026-11-06 08:21:42 - Unusual outbound connection to 198.51.100.43 on port 4444
+[2026-11-06 08:21:44] ALERT: BRUTE_FORCE -> 2026-11-06 08:21:44 - Failed login attempt from 10.0.0.135 - user: admin - attempt 3
+[2026-11-06 08:21:51] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:21:51 - Multiple failed sudo attempts - user: guest6
+[2026-11-06 08:21:54] ALERT: BRUTE_FORCE -> 2026-11-06 08:21:54 - Failed login attempt from 10.0.0.105 - user: admin - attempt 3
+[2026-11-06 08:21:55] ALERT: SUSPICIOUS_CONNECTION -> 2026-11-06 08:21:55 - Unusual outbound connection to 198.51.100.42 on port 4444
+[2026-11-06 08:22:01] ALERT: PRIVILEGE_ESCALATION -> 2026-11-06 08:22:01 - Multiple failed sudo attempts - user: guest10

@@ -1,0 +1,19 @@
+============================================================
+             SOC AUTOMATED SECURITY INCIDENT REPORT
+============================================================
+Report Generated: 2026-11-06 08:22:28
+Total Threats Detected: 56
+
+THREAT BREAKDOWN:
+----------------------------------------
+- PRIVILEGE_ESCALATION: 19 occurrences (33.93%)
+- PORT_SCAN: 15 occurrences (26.79%)
+- BRUTE_FORCE: 10 occurrences (17.86%)
+- SUSPICIOUS_CONNECTION: 12 occurrences (21.43%)
+
+============================================================
+RECOMMENDATIONS:
+1. Investigate source IP addresses associated with brute_force attempts.
+2. Review firewall rules to mitigate incoming port scans.
+3. Inspect unauthorized outbound traffic on port 4444.
+============================================================

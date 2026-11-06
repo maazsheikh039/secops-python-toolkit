@@ -1,0 +1,353 @@
+2026-11-06 08:19:07 - File accessed: /home/user2/documents/report.pdf
+2026-11-06 08:19:08 - Port scan detected from 203.0.113.42 targeting ports 22,23,3389
+2026-11-06 08:19:08 - User login successful from 192.168.1.23 - user: employee6
+2026-11-06 08:19:09 - Failed login attempt from 10.0.0.187 - user: admin - attempt 2
+2026-11-06 08:19:09 - User login successful from 192.168.1.13 - user: employee8
+2026-11-06 08:19:10 - Multiple failed sudo attempts - user: guest4
+2026-11-06 08:19:10 - Multiple failed sudo attempts - user: guest4
+2026-11-06 08:19:11 - User login successful from 192.168.1.39 - user: employee10
+2026-11-06 08:19:11 - Port scan detected from 203.0.113.6 targeting ports 22,23,3389
+2026-11-06 08:19:12 - User login successful from 192.168.1.43 - user: employee7
+2026-11-06 08:19:12 - User login successful from 192.168.1.44 - user: employee2
+2026-11-06 08:19:13 - Service started: web_server on port 80
+2026-11-06 08:19:13 - File accessed: /home/user3/documents/report.pdf
+2026-11-06 08:19:14 - File accessed: /home/user10/documents/report.pdf
+2026-11-06 08:19:14 - Multiple failed sudo attempts - user: guest5
+2026-11-06 08:19:15 - Port scan detected from 203.0.113.45 targeting ports 22,23,3389
+2026-11-06 08:19:15 - User login successful from 192.168.1.24 - user: employee5
+2026-11-06 08:19:16 - User login successful from 192.168.1.48 - user: employee8
+2026-11-06 08:19:16 - File accessed: /home/user2/documents/report.pdf
+2026-11-06 08:19:17 - File accessed: /home/user9/documents/report.pdf
+2026-11-06 08:19:17 - Port scan detected from 203.0.113.8 targeting ports 22,23,3389
+2026-11-06 08:19:18 - Failed login attempt from 10.0.0.110 - user: admin - attempt 3
+2026-11-06 08:19:18 - User login successful from 192.168.1.29 - user: employee10
+2026-11-06 08:19:19 - Service started: web_server on port 80
+2026-11-06 08:19:19 - User login successful from 192.168.1.2 - user: employee8
+2026-11-06 08:19:20 - File accessed: /home/user7/documents/report.pdf
+2026-11-06 08:19:20 - User login successful from 192.168.1.40 - user: employee8
+2026-11-06 08:19:21 - Service started: web_server on port 80
+2026-11-06 08:19:21 - User login successful from 192.168.1.46 - user: employee6
+2026-11-06 08:19:22 - Service started: web_server on port 80
+2026-11-06 08:19:22 - File accessed: /home/user6/documents/report.pdf
+2026-11-06 08:19:23 - File accessed: /home/user10/documents/report.pdf
+2026-11-06 08:19:23 - Service started: web_server on port 80
+2026-11-06 08:19:24 - Service started: web_server on port 80
+2026-11-06 08:19:24 - File accessed: /home/user9/documents/report.pdf
+2026-11-06 08:19:25 - File accessed: /home/user2/documents/report.pdf
+2026-11-06 08:19:25 - User login successful from 192.168.1.31 - user: employee8
+2026-11-06 08:19:26 - File accessed: /home/user10/documents/report.pdf
+2026-11-06 08:19:26 - File accessed: /home/user4/documents/report.pdf
+2026-11-06 08:19:27 - File accessed: /home/user5/documents/report.pdf
+2026-11-06 08:19:27 - Service started: web_server on port 80
+2026-11-06 08:19:28 - Service started: web_server on port 80
+2026-11-06 08:19:28 - File accessed: /home/user9/documents/report.pdf
+2026-11-06 08:19:29 - Failed login attempt from 10.0.0.166 - user: admin - attempt 3
+2026-11-06 08:19:29 - Failed login attempt from 10.0.0.194 - user: admin - attempt 4
+2026-11-06 08:19:30 - User login successful from 192.168.1.10 - user: employee4
+2026-11-06 08:19:30 - File accessed: /home/user4/documents/report.pdf
+2026-11-06 08:19:31 - Service started: web_server on port 80
+2026-11-06 08:19:31 - File accessed: /home/user6/documents/report.pdf
+2026-11-06 08:19:32 - Multiple failed sudo attempts - user: guest5
+2026-11-06 08:19:32 - User login successful from 192.168.1.35 - user: employee1
+2026-11-06 08:19:33 - User login successful from 192.168.1.14 - user: employee9
+2026-11-06 08:19:33 - Port scan detected from 203.0.113.4 targeting ports 22,23,3389
+2026-11-06 08:19:34 - File accessed: /home/user8/documents/report.pdf
+2026-11-06 08:19:34 - File accessed: /home/user3/documents/report.pdf
+2026-11-06 08:19:35 - User login successful from 192.168.1.13 - user: employee8
+2026-11-06 08:19:35 - File accessed: /home/user8/documents/report.pdf
+2026-11-06 08:19:36 - File accessed: /home/user6/documents/report.pdf
+2026-11-06 08:19:36 - File accessed: /home/user6/documents/report.pdf
+2026-11-06 08:19:37 - User login successful from 192.168.1.36 - user: employee7
+2026-11-06 08:19:37 - User login successful from 192.168.1.29 - user: employee5
+2026-11-06 08:19:38 - Service started: web_server on port 80
+2026-11-06 08:19:38 - File accessed: /home/user6/documents/report.pdf
+2026-11-06 08:19:39 - User login successful from 192.168.1.47 - user: employee10
+2026-11-06 08:19:39 - Service started: web_server on port 80
+2026-11-06 08:19:40 - Service started: web_server on port 80
+2026-11-06 08:19:40 - User login successful from 192.168.1.4 - user: employee10
+2026-11-06 08:19:41 - User login successful from 192.168.1.39 - user: employee6
+2026-11-06 08:19:41 - Service started: web_server on port 80
+2026-11-06 08:19:42 - Port scan detected from 203.0.113.28 targeting ports 22,23,3389
+2026-11-06 08:19:42 - Multiple failed sudo attempts - user: guest4
+2026-11-06 08:19:43 - User login successful from 192.168.1.23 - user: employee3
+2026-11-06 08:19:43 - User login successful from 192.168.1.24 - user: employee1
+2026-11-06 08:19:44 - Service started: web_server on port 80
+2026-11-06 08:19:44 - User login successful from 192.168.1.24 - user: employee2
+2026-11-06 08:19:45 - Service started: web_server on port 80
+2026-11-06 08:19:45 - File accessed: /home/user3/documents/report.pdf
+2026-11-06 08:19:46 - Service started: web_server on port 80
+2026-11-06 08:19:46 - User login successful from 192.168.1.7 - user: employee9
+2026-11-06 08:19:47 - User login successful from 192.168.1.21 - user: employee9
+2026-11-06 08:19:47 - User login successful from 192.168.1.16 - user: employee8
+2026-11-06 08:19:48 - User login successful from 192.168.1.39 - user: employee10
+2026-11-06 08:19:48 - Service started: web_server on port 80
+2026-11-06 08:19:49 - Port scan detected from 203.0.113.23 targeting ports 22,23,3389
+2026-11-06 08:19:49 - Service started: web_server on port 80
+2026-11-06 08:19:50 - Failed login attempt from 10.0.0.147 - user: admin - attempt 2
+2026-11-06 08:19:50 - User login successful from 192.168.1.11 - user: employee6
+2026-11-06 08:19:51 - File accessed: /home/user4/documents/report.pdf
+2026-11-06 08:19:51 - User login successful from 192.168.1.33 - user: employee5
+2026-11-06 08:19:52 - File accessed: /home/user6/documents/report.pdf
+2026-11-06 08:19:52 - Multiple failed sudo attempts - user: guest1
+2026-11-06 08:19:53 - File accessed: /home/user2/documents/report.pdf
+2026-11-06 08:19:53 - Service started: web_server on port 80
+2026-11-06 08:19:54 - Multiple failed sudo attempts - user: guest1
+2026-11-06 08:19:54 - File accessed: /home/user6/documents/report.pdf
+2026-11-06 08:19:55 - File accessed: /home/user10/documents/report.pdf
+2026-11-06 08:19:55 - Service started: web_server on port 80
+2026-11-06 08:19:56 - Service started: web_server on port 80
+2026-11-06 08:19:56 - Service started: web_server on port 80
+2026-11-06 08:19:57 - Service started: web_server on port 80
+2026-11-06 08:19:57 - File accessed: /home/user9/documents/report.pdf
+2026-11-06 08:19:58 - Multiple failed sudo attempts - user: guest10
+2026-11-06 08:19:58 - Failed login attempt from 10.0.0.101 - user: admin - attempt 4
+2026-11-06 08:19:59 - File accessed: /home/user9/documents/report.pdf
+2026-11-06 08:19:59 - User login successful from 192.168.1.4 - user: employee7
+2026-11-06 08:20:00 - User login successful from 192.168.1.44 - user: employee5
+2026-11-06 08:20:00 - File accessed: /home/user8/documents/report.pdf
+2026-11-06 08:20:01 - Service started: web_server on port 80
+2026-11-06 08:20:01 - User login successful from 192.168.1.34 - user: employee4
+2026-11-06 08:20:02 - File accessed: /home/user4/documents/report.pdf
+2026-11-06 08:20:02 - File accessed: /home/user8/documents/report.pdf
+2026-11-06 08:20:03 - Unusual outbound connection to 198.51.100.18 on port 4444
+2026-11-06 08:20:03 - File accessed: /home/user5/documents/report.pdf
+2026-11-06 08:20:04 - File accessed: /home/user4/documents/report.pdf
+2026-11-06 08:20:04 - Service started: web_server on port 80
+2026-11-06 08:20:05 - Service started: web_server on port 80
+2026-11-06 08:20:05 - Failed login attempt from 10.0.0.143 - user: admin - attempt 1
+2026-11-06 08:20:06 - File accessed: /home/user9/documents/report.pdf
+2026-11-06 08:20:06 - User login successful from 192.168.1.9 - user: employee1
+2026-11-06 08:20:07 - Service started: web_server on port 80
+2026-11-06 08:20:07 - User login successful from 192.168.1.34 - user: employee2
+2026-11-06 08:20:08 - User login successful from 192.168.1.21 - user: employee8
+2026-11-06 08:20:08 - File accessed: /home/user4/documents/report.pdf
+2026-11-06 08:20:09 - Service started: web_server on port 80
+2026-11-06 08:20:09 - Service started: web_server on port 80
+2026-11-06 08:20:10 - Service started: web_server on port 80
+2026-11-06 08:20:10 - Multiple failed sudo attempts - user: guest5
+2026-11-06 08:20:11 - Service started: web_server on port 80
+2026-11-06 08:20:11 - User login successful from 192.168.1.35 - user: employee5
+2026-11-06 08:20:12 - User login successful from 192.168.1.7 - user: employee10
+2026-11-06 08:20:12 - Service started: web_server on port 80
+2026-11-06 08:20:13 - Unusual outbound connection to 198.51.100.21 on port 4444
+2026-11-06 08:20:13 - Service started: web_server on port 80
+2026-11-06 08:20:14 - Unusual outbound connection to 198.51.100.31 on port 4444
+2026-11-06 08:20:14 - User login successful from 192.168.1.48 - user: employee8
+2026-11-06 08:20:15 - File accessed: /home/user1/documents/report.pdf
+2026-11-06 08:20:15 - User login successful from 192.168.1.22 - user: employee5
+2026-11-06 08:20:16 - File accessed: /home/user8/documents/report.pdf
+2026-11-06 08:20:16 - User login successful from 192.168.1.47 - user: employee10
+2026-11-06 08:20:17 - User login successful from 192.168.1.49 - user: employee2
+2026-11-06 08:20:17 - File accessed: /home/user1/documents/report.pdf
+2026-11-06 08:20:18 - Service started: web_server on port 80
+2026-11-06 08:20:18 - Service started: web_server on port 80
+2026-11-06 08:20:19 - User login successful from 192.168.1.14 - user: employee5
+2026-11-06 08:20:19 - Service started: web_server on port 80
+2026-11-06 08:20:20 - User login successful from 192.168.1.44 - user: employee2
+2026-11-06 08:20:20 - Unusual outbound connection to 198.51.100.6 on port 4444
+2026-11-06 08:20:21 - File accessed: /home/user6/documents/report.pdf
+2026-11-06 08:20:21 - User login successful from 192.168.1.31 - user: employee10
+2026-11-06 08:20:22 - File accessed: /home/user9/documents/report.pdf
+2026-11-06 08:20:22 - Port scan detected from 203.0.113.46 targeting ports 22,23,3389
+2026-11-06 08:20:23 - File accessed: /home/user7/documents/report.pdf
+2026-11-06 08:20:23 - File accessed: /home/user4/documents/report.pdf
+2026-11-06 08:20:24 - File accessed: /home/user1/documents/report.pdf
+2026-11-06 08:20:24 - User login successful from 192.168.1.46 - user: employee10
+2026-11-06 08:20:25 - User login successful from 192.168.1.12 - user: employee4
+2026-11-06 08:20:25 - Service started: web_server on port 80
+2026-11-06 08:20:26 - Service started: web_server on port 80
+2026-11-06 08:20:26 - User login successful from 192.168.1.9 - user: employee3
+2026-11-06 08:20:27 - User login successful from 192.168.1.13 - user: employee5
+2026-11-06 08:20:27 - User login successful from 192.168.1.16 - user: employee4
+2026-11-06 08:20:28 - Failed login attempt from 10.0.0.140 - user: admin - attempt 1
+2026-11-06 08:20:28 - User login successful from 192.168.1.37 - user: employee4
+2026-11-06 08:20:29 - File accessed: /home/user6/documents/report.pdf
+2026-11-06 08:20:29 - User login successful from 192.168.1.40 - user: employee2
+2026-11-06 08:20:30 - File accessed: /home/user4/documents/report.pdf
+2026-11-06 08:20:30 - Service started: web_server on port 80
+2026-11-06 08:20:31 - Failed login attempt from 10.0.0.111 - user: admin - attempt 1
+2026-11-06 08:20:31 - File accessed: /home/user2/documents/report.pdf
+2026-11-06 08:20:32 - User login successful from 192.168.1.2 - user: employee4
+2026-11-06 08:20:32 - Port scan detected from 203.0.113.44 targeting ports 22,23,3389
+2026-11-06 08:20:33 - User login successful from 192.168.1.17 - user: employee6
+2026-11-06 08:20:33 - User login successful from 192.168.1.14 - user: employee3
+2026-11-06 08:20:34 - User login successful from 192.168.1.41 - user: employee9
+2026-11-06 08:20:34 - Unusual outbound connection to 198.51.100.24 on port 4444
+2026-11-06 08:20:35 - Service started: web_server on port 80
+2026-11-06 08:20:35 - Port scan detected from 203.0.113.10 targeting ports 22,23,3389
+2026-11-06 08:20:36 - Service started: web_server on port 80
+2026-11-06 08:20:36 - Service started: web_server on port 80
+2026-11-06 08:20:37 - User login successful from 192.168.1.35 - user: employee10
+2026-11-06 08:20:37 - File accessed: /home/user9/documents/report.pdf
+2026-11-06 08:20:38 - User login successful from 192.168.1.3 - user: employee10
+2026-11-06 08:20:38 - File accessed: /home/user2/documents/report.pdf
+2026-11-06 08:20:39 - Multiple failed sudo attempts - user: guest4
+2026-11-06 08:20:39 - Service started: web_server on port 80
+2026-11-06 08:20:40 - File accessed: /home/user10/documents/report.pdf
+2026-11-06 08:20:40 - Service started: web_server on port 80
+2026-11-06 08:20:41 - Unusual outbound connection to 198.51.100.22 on port 4444
+2026-11-06 08:20:41 - User login successful from 192.168.1.14 - user: employee7
+2026-11-06 08:20:42 - Service started: web_server on port 80
+2026-11-06 08:20:42 - File accessed: /home/user4/documents/report.pdf
+2026-11-06 08:20:43 - Unusual outbound connection to 198.51.100.43 on port 4444
+2026-11-06 08:20:43 - Service started: web_server on port 80
+2026-11-06 08:20:44 - User login successful from 192.168.1.27 - user: employee6
+2026-11-06 08:20:44 - Port scan detected from 203.0.113.23 targeting ports 22,23,3389
+2026-11-06 08:20:45 - File accessed: /home/user1/documents/report.pdf
+2026-11-06 08:20:45 - Service started: web_server on port 80
+2026-11-06 08:20:46 - User login successful from 192.168.1.40 - user: employee7
+2026-11-06 08:20:46 - Service started: web_server on port 80
+2026-11-06 08:20:47 - File accessed: /home/user1/documents/report.pdf
+2026-11-06 08:20:47 - File accessed: /home/user5/documents/report.pdf
+2026-11-06 08:20:48 - File accessed: /home/user9/documents/report.pdf
+2026-11-06 08:20:48 - Service started: web_server on port 80
+2026-11-06 08:20:49 - Multiple failed sudo attempts - user: guest8
+2026-11-06 08:20:49 - Unusual outbound connection to 198.51.100.33 on port 4444
+2026-11-06 08:20:50 - File accessed: /home/user2/documents/report.pdf
+2026-11-06 08:20:50 - Port scan detected from 203.0.113.11 targeting ports 22,23,3389
+2026-11-06 08:20:51 - Multiple failed sudo attempts - user: guest4
+2026-11-06 08:20:51 - File accessed: /home/user2/documents/report.pdf
+2026-11-06 08:20:52 - Service started: web_server on port 80
+2026-11-06 08:20:52 - User login successful from 192.168.1.24 - user: employee9
+2026-11-06 08:20:53 - File accessed: /home/user4/documents/report.pdf
+2026-11-06 08:20:53 - Service started: web_server on port 80
+2026-11-06 08:20:54 - Service started: web_server on port 80
+2026-11-06 08:20:54 - File accessed: /home/user4/documents/report.pdf
+2026-11-06 08:20:55 - User login successful from 192.168.1.44 - user: employee1
+2026-11-06 08:20:55 - Service started: web_server on port 80
+2026-11-06 08:20:56 - Service started: web_server on port 80
+2026-11-06 08:20:56 - Failed login attempt from 10.0.0.174 - user: admin - attempt 3
+2026-11-06 08:20:57 - Port scan detected from 203.0.113.36 targeting ports 22,23,3389
+2026-11-06 08:20:57 - Service started: web_server on port 80
+2026-11-06 08:20:58 - User login successful from 192.168.1.13 - user: employee3
+2026-11-06 08:20:58 - Service started: web_server on port 80
+2026-11-06 08:20:59 - Service started: web_server on port 80
+2026-11-06 08:20:59 - Multiple failed sudo attempts - user: guest2
+2026-11-06 08:21:00 - Service started: web_server on port 80
+2026-11-06 08:21:00 - Port scan detected from 203.0.113.4 targeting ports 22,23,3389
+2026-11-06 08:21:01 - User login successful from 192.168.1.15 - user: employee2
+2026-11-06 08:21:01 - Service started: web_server on port 80
+2026-11-06 08:21:02 - File accessed: /home/user7/documents/report.pdf
+2026-11-06 08:21:02 - File accessed: /home/user2/documents/report.pdf
+2026-11-06 08:21:03 - File accessed: /home/user3/documents/report.pdf
+2026-11-06 08:21:03 - File accessed: /home/user2/documents/report.pdf
+2026-11-06 08:21:04 - File accessed: /home/user8/documents/report.pdf
+2026-11-06 08:21:04 - User login successful from 192.168.1.22 - user: employee5
+2026-11-06 08:21:05 - User login successful from 192.168.1.20 - user: employee3
+2026-11-06 08:21:05 - Service started: web_server on port 80
+2026-11-06 08:21:06 - Service started: web_server on port 80
+2026-11-06 08:21:06 - User login successful from 192.168.1.13 - user: employee9
+2026-11-06 08:21:07 - File accessed: /home/user5/documents/report.pdf
+2026-11-06 08:21:07 - Multiple failed sudo attempts - user: guest1
+2026-11-06 08:21:08 - File accessed: /home/user6/documents/report.pdf
+2026-11-06 08:21:08 - Port scan detected from 203.0.113.30 targeting ports 22,23,3389
+2026-11-06 08:21:09 - Service started: web_server on port 80
+2026-11-06 08:21:09 - Service started: web_server on port 80
+2026-11-06 08:21:10 - Multiple failed sudo attempts - user: guest7
+2026-11-06 08:21:10 - User login successful from 192.168.1.15 - user: employee8
+2026-11-06 08:21:11 - User login successful from 192.168.1.3 - user: employee10
+2026-11-06 08:21:11 - User login successful from 192.168.1.31 - user: employee9
+2026-11-06 08:21:12 - Port scan detected from 203.0.113.12 targeting ports 22,23,3389
+2026-11-06 08:21:12 - Service started: web_server on port 80
+2026-11-06 08:21:13 - User login successful from 192.168.1.50 - user: employee2
+2026-11-06 08:21:13 - Port scan detected from 203.0.113.20 targeting ports 22,23,3389
+2026-11-06 08:21:14 - Service started: web_server on port 80
+2026-11-06 08:21:14 - User login successful from 192.168.1.21 - user: employee3
+2026-11-06 08:21:15 - Failed login attempt from 10.0.0.185 - user: admin - attempt 1
+2026-11-06 08:21:15 - User login successful from 192.168.1.43 - user: employee7
+2026-11-06 08:21:16 - User login successful from 192.168.1.37 - user: employee8
+2026-11-06 08:21:16 - Multiple failed sudo attempts - user: guest3
+2026-11-06 08:21:17 - User login successful from 192.168.1.38 - user: employee3
+2026-11-06 08:21:17 - File accessed: /home/user9/documents/report.pdf
+2026-11-06 08:21:18 - File accessed: /home/user3/documents/report.pdf
+2026-11-06 08:21:18 - User login successful from 192.168.1.32 - user: employee3
+2026-11-06 08:21:19 - User login successful from 192.168.1.34 - user: employee10
+2026-11-06 08:21:19 - User login successful from 192.168.1.18 - user: employee2
+2026-11-06 08:21:20 - File accessed: /home/user9/documents/report.pdf
+2026-11-06 08:21:20 - Multiple failed sudo attempts - user: guest4
+2026-11-06 08:21:21 - File accessed: /home/user2/documents/report.pdf
+2026-11-06 08:21:21 - User login successful from 192.168.1.50 - user: employee5
+2026-11-06 08:21:22 - Service started: web_server on port 80
+2026-11-06 08:21:22 - User login successful from 192.168.1.34 - user: employee10
+2026-11-06 08:21:23 - Port scan detected from 203.0.113.23 targeting ports 22,23,3389
+2026-11-06 08:21:23 - User login successful from 192.168.1.45 - user: employee7
+2026-11-06 08:21:24 - File accessed: /home/user10/documents/report.pdf
+2026-11-06 08:21:24 - Service started: web_server on port 80
+2026-11-06 08:21:25 - Service started: web_server on port 80
+2026-11-06 08:21:25 - Service started: web_server on port 80
+2026-11-06 08:21:26 - Service started: web_server on port 80
+2026-11-06 08:21:26 - User login successful from 192.168.1.11 - user: employee4
+2026-11-06 08:21:27 - Service started: web_server on port 80
+2026-11-06 08:21:27 - Service started: web_server on port 80
+2026-11-06 08:21:28 - File accessed: /home/user3/documents/report.pdf
+2026-11-06 08:21:28 - Service started: web_server on port 80
+2026-11-06 08:21:29 - Multiple failed sudo attempts - user: guest7
+2026-11-06 08:21:29 - File accessed: /home/user5/documents/report.pdf
+2026-11-06 08:21:30 - Service started: web_server on port 80
+2026-11-06 08:21:30 - Port scan detected from 203.0.113.21 targeting ports 22,23,3389
+2026-11-06 08:21:31 - File accessed: /home/user1/documents/report.pdf
+2026-11-06 08:21:31 - Multiple failed sudo attempts - user: guest4
+2026-11-06 08:21:32 - User login successful from 192.168.1.14 - user: employee1
+2026-11-06 08:21:32 - User login successful from 192.168.1.41 - user: employee5
+2026-11-06 08:21:33 - Service started: web_server on port 80
+2026-11-06 08:21:33 - Service started: web_server on port 80
+2026-11-06 08:21:34 - File accessed: /home/user9/documents/report.pdf
+2026-11-06 08:21:34 - Unusual outbound connection to 198.51.100.33 on port 4444
+2026-11-06 08:21:35 - Service started: web_server on port 80
+2026-11-06 08:21:35 - Service started: web_server on port 80
+2026-11-06 08:21:36 - Multiple failed sudo attempts - user: guest7
+2026-11-06 08:21:36 - User login successful from 192.168.1.19 - user: employee8
+2026-11-06 08:21:37 - User login successful from 192.168.1.11 - user: employee10
+2026-11-06 08:21:37 - Service started: web_server on port 80
+2026-11-06 08:21:38 - File accessed: /home/user4/documents/report.pdf
+2026-11-06 08:21:38 - Service started: web_server on port 80
+2026-11-06 08:21:39 - Service started: web_server on port 80
+2026-11-06 08:21:39 - Unusual outbound connection to 198.51.100.30 on port 4444
+2026-11-06 08:21:40 - Service started: web_server on port 80
+2026-11-06 08:21:40 - User login successful from 192.168.1.24 - user: employee5
+2026-11-06 08:21:41 - Service started: web_server on port 80
+2026-11-06 08:21:41 - Failed login attempt from 10.0.0.199 - user: admin - attempt 5
+2026-11-06 08:21:42 - Unusual outbound connection to 198.51.100.43 on port 4444
+2026-11-06 08:21:42 - File accessed: /home/user6/documents/report.pdf
+2026-11-06 08:21:43 - File accessed: /home/user10/documents/report.pdf
+2026-11-06 08:21:43 - Service started: web_server on port 80
+2026-11-06 08:21:44 - Service started: web_server on port 80
+2026-11-06 08:21:44 - Failed login attempt from 10.0.0.135 - user: admin - attempt 3
+2026-11-06 08:21:45 - File accessed: /home/user9/documents/report.pdf
+2026-11-06 08:21:45 - Service started: web_server on port 80
+2026-11-06 08:21:46 - User login successful from 192.168.1.25 - user: employee9
+2026-11-06 08:21:46 - File accessed: /home/user1/documents/report.pdf
+2026-11-06 08:21:47 - User login successful from 192.168.1.30 - user: employee5
+2026-11-06 08:21:47 - File accessed: /home/user5/documents/report.pdf
+2026-11-06 08:21:48 - User login successful from 192.168.1.34 - user: employee3
+2026-11-06 08:21:48 - Service started: web_server on port 80
+2026-11-06 08:21:49 - User login successful from 192.168.1.31 - user: employee7
+2026-11-06 08:21:49 - File accessed: /home/user5/documents/report.pdf
+2026-11-06 08:21:50 - User login successful from 192.168.1.34 - user: employee9
+2026-11-06 08:21:50 - Service started: web_server on port 80
+2026-11-06 08:21:51 - Multiple failed sudo attempts - user: guest6
+2026-11-06 08:21:51 - Service started: web_server on port 80
+2026-11-06 08:21:52 - Service started: web_server on port 80
+2026-11-06 08:21:52 - Service started: web_server on port 80
+2026-11-06 08:21:53 - Service started: web_server on port 80
+2026-11-06 08:21:53 - Service started: web_server on port 80
+2026-11-06 08:21:54 - Failed login attempt from 10.0.0.105 - user: admin - attempt 3
+2026-11-06 08:21:54 - File accessed: /home/user3/documents/report.pdf
+2026-11-06 08:21:55 - Unusual outbound connection to 198.51.100.42 on port 4444
+2026-11-06 08:21:55 - User login successful from 192.168.1.2 - user: employee2
+2026-11-06 08:21:56 - User login successful from 192.168.1.1 - user: employee1
+2026-11-06 08:21:56 - Service started: web_server on port 80
+2026-11-06 08:21:57 - User login successful from 192.168.1.47 - user: employee7
+2026-11-06 08:21:57 - File accessed: /home/user4/documents/report.pdf
+2026-11-06 08:21:58 - User login successful from 192.168.1.24 - user: employee10
+2026-11-06 08:21:58 - File accessed: /home/user1/documents/report.pdf
+2026-11-06 08:21:59 - File accessed: /home/user4/documents/report.pdf
+2026-11-06 08:21:59 - Service started: web_server on port 80
+2026-11-06 08:22:00 - Service started: web_server on port 80
+2026-11-06 08:22:00 - Service started: web_server on port 80
+2026-11-06 08:22:01 - Multiple failed sudo attempts - user: guest10
+2026-11-06 08:22:01 - User login successful from 192.168.1.22 - user: employee1
+2026-11-06 08:22:02 - User login successful from 192.168.1.50 - user: employee10
+2026-11-06 08:22:02 - User login successful from 192.168.1.31 - user: employee6
+2026-11-06 08:22:03 - User login successful from 192.168.1.50 - user: employee2
+2026-11-06 08:22:03 - Multiple failed sudo attempts - user: guest4
