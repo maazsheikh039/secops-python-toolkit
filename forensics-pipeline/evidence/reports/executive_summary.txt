@@ -1,0 +1,18 @@
+EXECUTIVE SUMMARY
+=================
+
+Case Information:
+- Case ID: CASE-2024-001
+- Investigation Date: 2026-11-06
+- Evidence Items Collected: 3
+
+Evidence Overview:
+1. suspicious_doc.txt - Document containing access logs
+2. system.log - System authentication and access logs
+3. app.conf - Application configuration file
+
+Integrity Status:
+- All evidence items hashed with MD5 and SHA256
+- Original evidence preserved in read-only state
+- Chain of custody documented
+- Working copies created for analysis
