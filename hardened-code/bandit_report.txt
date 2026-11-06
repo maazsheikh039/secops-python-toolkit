@@ -1,0 +1,51 @@
+Run started:2026-11-06 06:56:05.508618+00:00
+
+Test results:
+>> Issue: [B605:start_process_with_a_shell] Starting a process with a shell, possible injection detected, security issue.
+   Severity: High   Confidence: High
+   CWE: CWE-78 (https://cwe.mitre.org/data/definitions/78.html)
+   More Info: https://bandit.readthedocs.io/en/1.9.4/plugins/b605_start_process_with_a_shell.html
+   Location: ./command_executor.py:10:13
+9	    command = f"ping -c 4 {hostname}"
+10	    result = os.system(command)
+11	    
+
+--------------------------------------------------
+>> Issue: [B108:hardcoded_tmp_directory] Probable insecure usage of temp file/directory.
+   Severity: Medium   Confidence: Medium
+   CWE: CWE-377 (https://cwe.mitre.org/data/definitions/377.html)
+   More Info: https://bandit.readthedocs.io/en/1.9.4/plugins/b108_hardcoded_tmp_directory.html
+   Location: ./file_reader.py:9:16
+8	    # VULNERABLE: No path validation
+9	    base_path = "/tmp/uploads/"
+10	    file_path = base_path + filename
+
+--------------------------------------------------
+>> Issue: [B608:hardcoded_sql_expressions] Possible SQL injection vector through string-based query construction.
+   Severity: Medium   Confidence: Low
+   CWE: CWE-89 (https://cwe.mitre.org/data/definitions/89.html)
+   More Info: https://bandit.readthedocs.io/en/1.9.4/plugins/b608_hardcoded_sql_expressions.html
+   Location: ./user_login.py:12:14
+11	    # VULNERABLE: Direct string concatenation in SQL query
+12	    query = f"SELECT * FROM users WHERE username='{username}' AND password='{password}'"
+13	    cursor.execute(query)
+
+--------------------------------------------------
+
+Code scanned:
+	Total lines of code: 51
+	Total lines skipped (#nosec): 0
+	Total potential issues skipped due to specifically being disabled (e.g., #nosec BXXX): 0
+
+Run metrics:
+	Total issues (by severity):
+		Undefined: 0
+		Low: 0
+		Medium: 2
+		High: 1
+	Total issues (by confidence):
+		Undefined: 0
+		Low: 1
+		Medium: 1
+		High: 1
+Files skipped (0):
